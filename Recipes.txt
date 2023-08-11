@@ -4,5 +4,8 @@ rice
 beans
 chicken fry
 
+chips
+pizza
+
 
 thank you :)
